@@ -1,0 +1,10 @@
+.details-wrapper {
+  position: relative;
+}
+
+.details-scroll {
+  margin-top: 107px;
+  height: 635px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}

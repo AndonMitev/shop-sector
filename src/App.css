@@ -1,0 +1,23 @@
+.side-columns {
+  background-color: black;
+  position: absolute;
+  width: 3%;
+  height: 100vh;
+}
+
+
+
+
+/* Pattern styles */
+.container-wrapper {
+  display: table;
+  width: 100%;
+}
+
+.left-half {
+  left: 0px;
+}
+
+.right-half {
+  right: 0px;
+}

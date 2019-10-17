@@ -1,0 +1,17 @@
+.orders-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table-wrapper {
+  position: relative;
+}
+
+.table-scroll {
+  height: 635px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+table {
+  width: 100%;
+}
